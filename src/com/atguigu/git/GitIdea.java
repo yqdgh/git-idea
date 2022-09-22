@@ -1,0 +1,12 @@
+package com.atguigu.git;
+
+/**
+ * @author Fei
+ * @create 2022-09-22 8:42
+ */
+public class GitIdea {
+    public static void main(String[] args) {
+        System.out.println("GitIdea");
+        System.out.println("GitIdea2");
+    }
+}
