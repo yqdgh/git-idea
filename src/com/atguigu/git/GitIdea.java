@@ -9,5 +9,6 @@ public class GitIdea {
         System.out.println("GitIdea");
         System.out.println("GitIdea2");
         System.out.println("GitIdea3");
+        System.out.println("hot-fix1");
     }
 }
