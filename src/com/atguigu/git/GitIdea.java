@@ -8,5 +8,6 @@ public class GitIdea {
     public static void main(String[] args) {
         System.out.println("GitIdea");
         System.out.println("GitIdea2");
+        System.out.println("hot-fix1");
     }
 }
